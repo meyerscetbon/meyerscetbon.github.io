@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : scetbonM
+  username               : "scetbonM"
 facebook:
   username               :
   app_id                 :
@@ -87,7 +87,7 @@ author:
   employer         : "CREST, ENSAE Paris"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=x_k3kSsAAAAJ&hl=en&oi=ao"
-  email            : "meyer.SCETBON@ensae.fr
+  email            : "meyer.SCETBON@ensae.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
