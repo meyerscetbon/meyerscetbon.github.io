@@ -13,6 +13,6 @@ I am a first year PhD student in the [Department of Statistics](http://crest.sci
 
 Research Interests
 =====
-I am interested in learning theory, optimal transport, kernel methods and sparse coding.
+I am interested in optimal transport, causality, learning theory, kernel methods and sparse coding.
 
 
