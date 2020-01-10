@@ -16,6 +16,7 @@ Meyer Scetbon, Gaël Varoquaux.
 *Spotlight at Neural Information Processing Systems  (NeurIPS 2019).*  
 [paper](https://arxiv.org/pdf/1909.09264.pdf)
 [code](https://github.com/meyerscetbon/l1_two_sample_test)
+[slides](/files/Spotlight_NeurIPS_2019.pdf)
 
 
 
