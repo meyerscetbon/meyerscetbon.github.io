@@ -13,7 +13,7 @@ redirect_from:
 ## Published papers:
 **Comparing distributions: l1 geometry improves kernel two-sample testing.**  
 Meyer Scetbon, Gaël Varoquaux.  
-*Spotlight at Neural Information Processing Systems  (NeurIPS 2019).*  
+*Neural Information Processing Systems _Spotlight_ (NeurIPS 2019).*  
 [paper](https://arxiv.org/pdf/1909.09264.pdf)
 [code](https://github.com/meyerscetbon/l1_two_sample_test)
 [slides](/files/Spotlight_NeurIPS_2019.pdf)
