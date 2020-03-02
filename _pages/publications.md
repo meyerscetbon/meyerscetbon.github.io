@@ -26,7 +26,7 @@ Meyer Scetbon, Zaid Harchaoui.
 [paper](https://arxiv.org/pdf/2002.12640.pdf)
 
 **Deep K-SVD Denoising**  
-Meyer Scetbon, Michael Elad, Payman Milanfar.   
+Meyer Scetbon, Michael Elad, Peyman Milanfar.   
 [paper](https://arxiv.org/pdf/1909.13164.pdf)
 [code](https://github.com/meyerscetbon/Deep-K-SVD)
 
