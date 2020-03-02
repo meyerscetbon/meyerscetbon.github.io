@@ -11,7 +11,7 @@ redirect_from:
 
 
 ## Published papers:
-**Comparing distributions: l1 geometry improves kernel two-sample testing.**  
+**Comparing distributions: l1 geometry improves kernel two-sample testing**  
 Meyer Scetbon, Gaël Varoquaux.  
 ***Spotlight*** at *Neural Information Processing Systems (NeurIPS 2019).*  
 [paper](https://arxiv.org/pdf/1909.09264.pdf)
@@ -21,8 +21,13 @@ Meyer Scetbon, Gaël Varoquaux.
 
 
 ## Preprints:
-**Deep K-SVD Denoising.**  
+**Risk Bounds for Multi-layer Perceptrons through Spectra of Integral Operators**
+Meyer Scetbon, Zaid Harchaoui.
+[paper](https://arxiv.org/pdf/2002.12640.pdf)
+
+**Deep K-SVD Denoising**  
 Meyer Scetbon, Michael Elad, Payman Milanfar.   
 [paper](https://arxiv.org/pdf/1909.13164.pdf)
 [code](https://github.com/meyerscetbon/Deep-K-SVD)
+
 
