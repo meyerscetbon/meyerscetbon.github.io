@@ -21,7 +21,7 @@ Meyer Scetbon, Gaël Varoquaux.
 
 
 ## Preprints:
-**Risk Bounds for Multi-layer Perceptrons through Spectra of Integral Operators**
+**Risk Bounds for Multi-layer Perceptrons through Spectra of Integral Operators**    
 Meyer Scetbon, Zaid Harchaoui.  
 [paper](https://arxiv.org/pdf/2002.12640.pdf)
 
