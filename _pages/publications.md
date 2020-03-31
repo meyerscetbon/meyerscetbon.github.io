@@ -21,6 +21,10 @@ Meyer Scetbon, Gaël Varoquaux.
 
 
 ## Preprints:
+**Harmonic Decompositions of Convolutional Networks**    
+Meyer Scetbon, Zaid Harchaoui.  
+[paper](https://arxiv.org/pdf/2003.12756.pdf)
+
 **Risk Bounds for Multi-layer Perceptrons through Spectra of Integral Operators**    
 Meyer Scetbon, Zaid Harchaoui.  
 [paper](https://arxiv.org/pdf/2002.12640.pdf)
