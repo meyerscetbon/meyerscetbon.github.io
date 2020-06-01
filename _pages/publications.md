@@ -13,7 +13,7 @@ redirect_from:
 ## Published papers:
 **Harmonic Decompositions of Convolutional Networks**    
 Meyer Scetbon, Zaid Harchaoui.
-International Conference on Machine Learning (ICML 2020).  
+*International Conference on Machine Learning (ICML 2020).* 
 [paper](https://arxiv.org/pdf/2003.12756.pdf)
 
 
