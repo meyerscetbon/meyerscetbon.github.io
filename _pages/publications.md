@@ -11,6 +11,12 @@ redirect_from:
 
 
 ## Published papers:
+**Harmonic Decompositions of Convolutional Networks**    
+Meyer Scetbon, Zaid Harchaoui.
+International Conference on Machine Learning (ICML 2020).  
+[paper](https://arxiv.org/pdf/2003.12756.pdf)
+
+
 **Comparing distributions: l1 geometry improves kernel two-sample testing**  
 Meyer Scetbon, Gaël Varoquaux.  
 ***Spotlight*** at *Neural Information Processing Systems (NeurIPS 2019).*  
@@ -21,10 +27,6 @@ Meyer Scetbon, Gaël Varoquaux.
 
 
 ## Preprints:
-**Harmonic Decompositions of Convolutional Networks**    
-Meyer Scetbon, Zaid Harchaoui.  
-[paper](https://arxiv.org/pdf/2003.12756.pdf)
-
 **Risk Bounds for Multi-layer Perceptrons through Spectra of Integral Operators**    
 Meyer Scetbon, Zaid Harchaoui.  
 [paper](https://arxiv.org/pdf/2002.12640.pdf)
