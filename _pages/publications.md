@@ -27,11 +27,11 @@ Meyer Scetbon, Gaël Varoquaux.
 
 
 ## Preprints:
-**Handling Multiple Costs in Optimal Transport: Strong Duality and Efficient Computation**
+**Handling Multiple Costs in Optimal Transport: Strong Duality and Efficient Computation**     
 Meyer Scetbon <sup>*</sup>, Laurent Meunier <sup>*</sup>, Jamal Atif, Marco Cuturi
 [paper](https://arxiv.org/abs/2006.07260)
 
-**Linear Time Sinkhorn Divergences using Positive Features**
+**Linear Time Sinkhorn Divergences using Positive Features**   
 Meyer Scetbon, Marco Cuturi
 [paper](https://arxiv.org/abs/2006.07057)
 
