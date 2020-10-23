@@ -14,3 +14,7 @@ redirect_from:
 Vancouver, December. 2019.  
 [slides](/files/spotlight_NeurIPS_2019.pdf) 
 
+**Harmonic Decompositions of Convolutional Networks**   
+Meyer Scetbon, Zaid Harchaoui.    
+*International Conference on Machine Learning (ICML 2020).* 
+[slides](/files/Oral_ICML_CNN_2020.pdf)
