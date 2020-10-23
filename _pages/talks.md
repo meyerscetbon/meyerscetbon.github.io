@@ -8,6 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
+## Talks:
 **Comparing distributions: l1 geometry improves kernel two-sample testing.**    
 *Spotlight at Neural Information Processing Systems (NeurIPS 2019).*  
 Vancouver, December. 2019.  
