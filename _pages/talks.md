@@ -3,6 +3,7 @@ layout: archive
 title: "Talks"
 author_profile: true
 redirect_from:
+ - /talks/
   - /talks.html
 ---
 
