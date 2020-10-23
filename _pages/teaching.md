@@ -10,6 +10,11 @@ redirect_from:
 
 ## Teaching Assistant  
 
+**Introduction aux processus stochastiques**,  *Autumn 2020.*   
+*ENSAE, Paris.*  
+Taught by [Nicolas Chopin](https://nchopin.github.io)   
+[website](https://nchopin.github.io/teaching/)  
+
 **Optimisation différentiable**,  *Spring 2020.*   
 *ENSAE, Paris.*  
 Taught by [Guillaume Lecué](https://lecueguillaume.github.io)   
@@ -20,9 +25,5 @@ Taught by [Guillaume Lecué](https://lecueguillaume.github.io)
 Taught by [Victor-Emmanuel Brunel](https://vebrunel.com)   
 [website](https://vebrunel.com/home/teaching/)  
 
-**Introduction aux processus stochastiques**,  *Autumn 2020.*   
-*ENSAE, Paris.*  
-Taught by [Nicolas Chopin](https://nchopin.github.io)   
-[website](https://nchopin.github.io/teaching/)  
 
 
