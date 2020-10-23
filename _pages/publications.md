@@ -22,6 +22,7 @@ Meyer Scetbon, Marco Cuturi
 Meyer Scetbon, Zaid Harchaoui.    
 *International Conference on Machine Learning (ICML 2020).*   
 [paper](https://arxiv.org/pdf/2003.12756.pdf)
+[slides](/files/Oral_ICML_CNN_2020.pdf)
 
 
 **Comparing distributions: l1 geometry improves kernel two-sample testing**  
