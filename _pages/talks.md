@@ -11,7 +11,7 @@ redirect_from:
 ## Talks:
 **Harmonic Decompositions of Convolutional Networks**   
 Meyer Scetbon, Zaid Harchaoui.    
-*International Conference on Machine Learning (ICML 2020).*
+*International Conference on Machine Learning (ICML 2020).* 
 Online, July. 2020.  
 [slides](/files/Oral_ICML_CNN_2020.pdf)
 
