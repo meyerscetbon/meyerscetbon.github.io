@@ -15,10 +15,10 @@ redirect_from:
 Taught by [Guillaume Lecué](https://lecueguillaume.github.io)   
 [website](https://lecueguillaume.github.io/2019/01/15/optimisation_diff/)  
 
-**Optimisation différentiable**,  *Spring 2020.*   
+**Théorie des Probabilités**,  *Spring 2020.*   
 *ENSAE, Paris.*  
-Taught by [Guillaume Lecué](https://lecueguillaume.github.io)   
-[website](https://lecueguillaume.github.io/2019/01/15/optimisation_diff/)  
+Taught by [Victor-Emmanuel Brunel](https://vebrunel.com)   
+[website](https://vebrunel.com/home/teaching/)  
 
 **Introduction aux processus stochastiques**,  *Autumn 2020.*   
 *ENSAE, Paris.*  
