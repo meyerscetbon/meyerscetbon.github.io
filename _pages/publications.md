@@ -16,6 +16,8 @@ Meyer Scetbon, Marco Cuturi.
 *Neural Information Processing Systems (NeurIPS 2020).*  
 [paper](https://arxiv.org/abs/2006.07057)
 [code](https://github.com/meyerscetbon/LinearSinkhorn)
+[poster](/files/poster_neurips_2020.pdf)
+[slides](/files/slide_presentation_neurips_2020.pdf)
 
 
 **Harmonic Decompositions of Convolutional Networks**    
