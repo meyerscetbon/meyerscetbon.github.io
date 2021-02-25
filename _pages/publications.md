@@ -11,16 +11,16 @@ redirect_from:
 
 
 ## Published papers:
-**Risk Bounds for Multi-layer Perceptrons through Spectra of Integral Operators**    
-Meyer Scetbon, Zaid Harchaoui.  
-*Artificial Intelligence and Statistics (AISTATS 2021).*  
-[paper](https://arxiv.org/pdf/2002.12640.pdf)
-
-
 **Equitable and Optimal Transport with Multiple Agents**     
 Meyer Scetbon<sup>*</sup>, Laurent Meunier<sup>*</sup>, Jamal Atif, Marco Cuturi.  
 *Artificial Intelligence and Statistics (AISTATS 2021).*   
 [paper](https://arxiv.org/abs/2006.07260)
+
+
+**Risk Bounds for Multi-layer Perceptrons through Spectra of Integral Operators**    
+Meyer Scetbon, Zaid Harchaoui.  
+*Artificial Intelligence and Statistics (AISTATS 2021).*  
+[paper](https://arxiv.org/pdf/2002.12640.pdf)
 
 
 **Linear Time Sinkhorn Divergences using Positive Features**   
