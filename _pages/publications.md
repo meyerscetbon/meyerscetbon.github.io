@@ -12,12 +12,6 @@ redirect_from:
 
 
 ## Published papers:
-**Equitable and Optimal Transport with Multiple Agents**     
-Meyer Scetbon<sup>*</sup>, Laurent Meunier<sup>*</sup>, Jamal Atif, Marco Cuturi.  
-*Artificial Intelligence and Statistics (AISTATS 2021).*   
-[paper](https://arxiv.org/abs/2006.07260)
-
-
 **A Spectral Analysis of Dot-product Kernels**    
 Meyer Scetbon, Zaid Harchaoui.  
 *Artificial Intelligence and Statistics (AISTATS 2021).*  
@@ -51,6 +45,12 @@ Meyer Scetbon, Gaël Varoquaux.
 
 
 ## Preprints:
+**Equitable and Optimal Transport with Multiple Agents**     
+Meyer Scetbon<sup>*</sup>, Laurent Meunier<sup>*</sup>, Jamal Atif, Marco Cuturi.  
+*Artificial Intelligence and Statistics (AISTATS 2021).*   
+[paper](https://arxiv.org/abs/2006.07260)
+
+
 **Mixed Nash Equilibria in the Adversarial Examples Game**  
 Laurent Meunier<sup>*</sup>, Meyer Scetbon<sup>*</sup>, Rafael Pinot, Jamal Atif, Yann Chevaleyre.  
 [paper](https://arxiv.org/pdf/2102.06905.pdf)
