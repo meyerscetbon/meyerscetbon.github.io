@@ -12,7 +12,7 @@ redirect_from:
 
 ## Published papers:
 **Equitable and Optimal Transport with Multiple Agents**     
-Meyer Scetbon, Laurent Meunier, Jamal Atif, Marco Cuturi.  
+Meyer Scetbon<sup>*</sup>, Laurent Meunier<sup>*</sup>, Jamal Atif, Marco Cuturi.  
 *Artificial Intelligence and Statistics (AISTATS 2021).*   
 [paper](https://arxiv.org/abs/2006.07260)
 
