@@ -17,7 +17,7 @@ Meyer Scetbon, Zaid Harchaoui.
 [paper](https://arxiv.org/pdf/2002.12640.pdf)
 
 **Equitable and Optimal Transport with Multiple Agents**     
-Meyer Scetbon, Laurent Meunier, Jamal Atif, Marco Cuturi.  
+Meyer Scetbon, Laurent Meunier, Jamal Atif, Marco Cuturi.
 *Artificial Intelligence and Statistics (AISTATS 2021).*  
 [paper](https://arxiv.org/abs/2006.07260)
 
