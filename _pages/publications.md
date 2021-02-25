@@ -44,6 +44,11 @@ Meyer Scetbon, Gaël Varoquaux.
 
 
 ## Preprints:
+**Equitable and Optimal Transport with Multiple Agents**     
+Meyer Scetbon, Laurent Meunier, Jamal Atif, Marco Cuturi.  
+*Artificial Intelligence and Statistics (AISTATS 2021).*   
+[paper](https://arxiv.org/abs/2006.07260)
+
 **Mixed Nash Equilibria in the Adversarial Examples Game**  
 Laurent Meunier<sup>*</sup>, Meyer Scetbon<sup>*</sup>, Rafael Pinot, Jamal Atif, Yann Chevaleyre.  
 [paper](https://arxiv.org/pdf/2102.06905.pdf)
