@@ -65,6 +65,7 @@ Meyer Scetbon, Michael Elad, Peyman Milanfar.
 * Bernoulli Journal
 * JMLR
 * IEEE TPAMI
-* NeurIPS
-* AISTATS
+* NeurIPS (2020)
+* AISTATS (2021)
+* ICML (2021)
 
