@@ -52,7 +52,7 @@ Meyer Scetbon, Gaël Varoquaux.
 
 ## Preprints:
 **Mixed Nash Equilibria in the Adversarial Examples Game**  
-Laurent Meunier<sup>*</sup>, Meyer Scetbon<sup>*</sup>, Rafael Pinot, Jamal Atif, Yann Chevaleyre.  
+Laurent Meunier<sup>\*</sup>, Meyer Scetbon<sup>\*</sup>, Rafael Pinot, Jamal Atif, Yann Chevaleyre.  
 [paper](https://arxiv.org/pdf/2102.06905.pdf)
 
 
