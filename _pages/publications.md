@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
+
 ## Published papers:
 **Equitable and Optimal Transport with Multiple Agents**     
 Meyer Scetbon<sup>*</sup>, Laurent Meunier<sup>*</sup>, Jamal Atif, Marco Cuturi.  
