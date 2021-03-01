@@ -21,7 +21,7 @@ Meyer Scetbon<sup>\*</sup>, Laurent Meunier<sup>\*</sup>, Jamal Atif, Marco Cutu
 **A Spectral Analysis of Dot-product Kernels**    
 Meyer Scetbon, Zaid Harchaoui.  
 *Artificial Intelligence and Statistics (AISTATS 2021).*  
-[paper](https://arxiv.org/pdf/2002.12640.pdf)
+[paper](https://arxiv.org/abs/2002.12640)
 
 
 **Linear Time Sinkhorn Divergences using Positive Features**   
