@@ -51,8 +51,8 @@ Meyer Scetbon, Gaël Varoquaux.
 
 
 ## Preprints:
-**Low-Rank Sinkhorn Factorization**
-Meyer Scetbon, Marco Cuturi, Gabriel Peyré.
+**Low-Rank Sinkhorn Factorization**    
+Meyer Scetbon, Marco Cuturi, Gabriel Peyré.  
 [paper](https://arxiv.org/abs/2103.04737)
 
 
