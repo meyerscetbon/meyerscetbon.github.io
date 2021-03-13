@@ -51,6 +51,11 @@ Meyer Scetbon, Gaël Varoquaux.
 
 
 ## Preprints:
+**Low-Rank Sinkhorn Factorization**
+Meyer Scetbon, Marco Cuturi, Gabriel Peyré.
+[paper](https://arxiv.org/abs/2103.04737)
+
+
 **Mixed Nash Equilibria in the Adversarial Examples Game**  
 Laurent Meunier<sup>\*</sup>, Meyer Scetbon<sup>\*</sup>, Rafael Pinot, Jamal Atif, Yann Chevaleyre.  
 [paper](https://arxiv.org/pdf/2102.06905.pdf)
