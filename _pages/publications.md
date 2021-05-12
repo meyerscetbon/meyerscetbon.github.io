@@ -14,7 +14,7 @@ redirect_from:
 ## Published papers:
 **Low-Rank Sinkhorn Factorization**    
 Meyer Scetbon, Marco Cuturi, Gabriel Peyré.  
-*International Conference on Machine Learning (ICML 2021).* 
+*International Conference on Machine Learning (ICML 2021).*  
 [paper](https://arxiv.org/abs/2103.04737)
 
 
