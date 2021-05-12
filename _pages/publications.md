@@ -12,6 +12,18 @@ redirect_from:
 
 
 ## Published papers:
+**Low-Rank Sinkhorn Factorization**    
+Meyer Scetbon, Marco Cuturi, Gabriel Peyré.  
+*International Conference on Machine Learning (ICML 2021).* 
+[paper](https://arxiv.org/abs/2103.04737)
+
+
+**Mixed Nash Equilibria in the Adversarial Examples Game**    
+*International Conference on Machine Learning (ICML 2021).*   
+Laurent Meunier<sup>\*</sup>, Meyer Scetbon<sup>\*</sup>, Rafael Pinot, Jamal Atif, Yann Chevaleyre.  
+[paper](https://arxiv.org/pdf/2102.06905.pdf)
+
+
 **Equitable and Optimal Transport with Multiple Agents**     
 Meyer Scetbon<sup>\*</sup>, Laurent Meunier<sup>\*</sup>, Jamal Atif, Marco Cuturi.  
 *Artificial Intelligence and Statistics (AISTATS 2021).*   
@@ -51,16 +63,6 @@ Meyer Scetbon, Gaël Varoquaux.
 
 
 ## Preprints:
-**Low-Rank Sinkhorn Factorization**    
-Meyer Scetbon, Marco Cuturi, Gabriel Peyré.  
-[paper](https://arxiv.org/abs/2103.04737)
-
-
-**Mixed Nash Equilibria in the Adversarial Examples Game**  
-Laurent Meunier<sup>\*</sup>, Meyer Scetbon<sup>\*</sup>, Rafael Pinot, Jamal Atif, Yann Chevaleyre.  
-[paper](https://arxiv.org/pdf/2102.06905.pdf)
-
-
 **Deep K-SVD Denoising**  
 Meyer Scetbon, Michael Elad, Peyman Milanfar.   
 [paper](https://arxiv.org/pdf/1909.13164.pdf)
