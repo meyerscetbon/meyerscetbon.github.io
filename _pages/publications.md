@@ -28,15 +28,15 @@ Laurent Meunier<sup>\*</sup>, Meyer Scetbon<sup>\*</sup>, Rafael Pinot, Jamal At
 Meyer Scetbon<sup>\*</sup>, Laurent Meunier<sup>\*</sup>, Jamal Atif, Marco Cuturi.  
 *Artificial Intelligence and Statistics (AISTATS 2021).*   
 [paper](https://arxiv.org/abs/2006.07260)
-[poster](/files/poster_EOT_aistats_2021.pdf)
-[slides](/files/slide_presentation_EOT_aistats_2021.pdf)
+[poster](/files/poster_eot_aistats_2021.png)
+[slides](/files/slide_presentation_eot_aistats_2021.pdf)
 
 
 **A Spectral Analysis of Dot-product Kernels**    
 Meyer Scetbon, Zaid Harchaoui.  
 *Artificial Intelligence and Statistics (AISTATS 2021).*  
 [paper](https://arxiv.org/abs/2002.12640)
-[poster](/files/poster_dotk__aistats_2021.pdf)
+[poster](/files/poster_dotk_aistats_2021.pdf)
 [slides](/files/slide_presentation_dotk_aistats_2021.pdf)
 
 
