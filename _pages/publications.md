@@ -67,6 +67,11 @@ Meyer Scetbon, Gaël Varoquaux.
 
 
 ## Preprints:
+**Linear-Time Gromov Wasserstein Distances using Low Rank Couplings and Costs**  
+Meyer Scetbon, Gabriel Peyré, Marco Cuturi.   
+[paper](https://arxiv.org/pdf/2106.01128.pdf)
+
+
 **Deep K-SVD Denoising**  
 Meyer Scetbon, Michael Elad, Peyman Milanfar.   
 [paper](https://arxiv.org/pdf/1909.13164.pdf)
