@@ -12,6 +12,13 @@ redirect_from:
 
 
 ## Published papers:
+**Deep K-SVD Denoising**  
+*IEEE Transactions on Image Processing.*   
+Meyer Scetbon, Michael Elad, Peyman Milanfar.   
+[paper](https://arxiv.org/pdf/1909.13164.pdf)
+[code](https://github.com/meyerscetbon/Deep-K-SVD)
+
+
 **Low-Rank Sinkhorn Factorization**    
 Meyer Scetbon, Marco Cuturi, Gabriel Peyré.  
 *International Conference on Machine Learning (ICML 2021).*  
@@ -71,11 +78,6 @@ Meyer Scetbon, Gaël Varoquaux.
 Meyer Scetbon, Gabriel Peyré, Marco Cuturi.   
 [paper](https://arxiv.org/pdf/2106.01128.pdf)
 
-
-**Deep K-SVD Denoising**  
-Meyer Scetbon, Michael Elad, Peyman Milanfar.   
-[paper](https://arxiv.org/pdf/1909.13164.pdf)
-[code](https://github.com/meyerscetbon/Deep-K-SVD)
 
 
 
