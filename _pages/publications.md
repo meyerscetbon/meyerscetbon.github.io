@@ -13,8 +13,8 @@ redirect_from:
 
 ## Published papers:
 **Deep K-SVD Denoising**  
-*IEEE Transactions on Image Processing.*   
 Meyer Scetbon, Michael Elad, Peyman Milanfar.   
+*IEEE Transactions on Image Processing.*   
 [paper](https://arxiv.org/pdf/1909.13164.pdf)
 [code](https://github.com/meyerscetbon/Deep-K-SVD)
 
