@@ -25,9 +25,9 @@ Meyer Scetbon, Marco Cuturi, Gabriel Peyré.
 [paper](https://arxiv.org/abs/2103.04737)
 
 
-**Mixed Nash Equilibria in the Adversarial Examples Game**    
-*International Conference on Machine Learning (ICML 2021).*   
+**Mixed Nash Equilibria in the Adversarial Examples Game**   
 Laurent Meunier<sup>\*</sup>, Meyer Scetbon<sup>\*</sup>, Rafael Pinot, Jamal Atif, Yann Chevaleyre.  
+*International Conference on Machine Learning (ICML 2021).*   
 [paper](https://arxiv.org/pdf/2102.06905.pdf)
 
 
