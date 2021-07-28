@@ -25,7 +25,7 @@ Meyer Scetbon, Marco Cuturi, Gabriel Peyré.
 [paper](https://arxiv.org/abs/2103.04737)
 [code](https://github.com/meyerscetbon/LOT)
 [poster](/files/poster_LOT_icml_2021.pdf)
-[slides](/files/slide_presentation_LOT_icml_2021.pdf)
+[slides](/files/slides_presentation_LOT_icml_2021.pdf)
 
 **Mixed Nash Equilibria in the Adversarial Examples Game**   
 Laurent Meunier<sup>\*</sup>, Meyer Scetbon<sup>\*</sup>, Rafael Pinot, Jamal Atif, Yann Chevaleyre.  
