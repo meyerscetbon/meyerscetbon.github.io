@@ -90,7 +90,7 @@ Meyer Scetbon, Gabriel Peyré, Marco Cuturi.
 * JMLR
 * IEEE TPAMI
 * JCGS
-* NeurIPS (2020)
+* NeurIPS (2020 - 2021)
 * AISTATS (2021)
 * ICML (2021)
 
