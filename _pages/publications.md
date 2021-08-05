@@ -31,6 +31,8 @@ Meyer Scetbon, Marco Cuturi, Gabriel Peyré.
 Laurent Meunier<sup>\*</sup>, Meyer Scetbon<sup>\*</sup>, Rafael Pinot, Jamal Atif, Yann Chevaleyre.  
 *International Conference on Machine Learning (ICML 2021).*   
 [paper](https://arxiv.org/pdf/2102.06905.pdf)
+[poster](/files/poster_dro_icml_2021.pdf)
+[slides](/files/slide_presentation_dro_icml_2021.pdf)
 
 
 **Equitable and Optimal Transport with Multiple Agents**     
