@@ -81,6 +81,7 @@ Meyer Scetbon, Gaël Varoquaux.
 **Linear-Time Gromov Wasserstein Distances using Low Rank Couplings and Costs**  
 Meyer Scetbon, Gabriel Peyré, Marco Cuturi.   
 [paper](https://arxiv.org/pdf/2106.01128.pdf)
+[code](https://github.com/meyerscetbon/LinearGromov)
 
 
 
