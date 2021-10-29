@@ -79,9 +79,9 @@ Meyer Scetbon, Gaël Varoquaux.
 
 
 ## Preprints:
-**An lp-based Kernel Conditional Independence Test**
-Meyer Scetbon<sup>\*</sup>, Laurent Meunier<sup>\*</sup>, Yaniv Romano
-[paper](https://arxiv.org/pdf/2110.14868.pdf)
+**An lp-based Kernel Conditional Independence Test**  
+Meyer Scetbon<sup>\*</sup>, Laurent Meunier<sup>\*</sup>, Yaniv Romano     
+[paper](https://arxiv.org/pdf/2110.14868.pdf)  
 
 **Linear-Time Gromov Wasserstein Distances using Low Rank Couplings and Costs**  
 Meyer Scetbon, Gabriel Peyré, Marco Cuturi.   
