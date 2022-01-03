@@ -79,8 +79,12 @@ Meyer Scetbon, Gaël Varoquaux.
 
 
 ## Preprints:
+**Triangular Flows for Generative Modeling: Statistical Consistency, Smoothness Classes, and Fast Rates**  
+Nicholas J. Irons, Meyer Scetbon, Soumik Pal, Zaid Harchaoui.  
+[paper](https://arxiv.org/pdf/2112.15595.pdf)  
+
 **An lp-based Kernel Conditional Independence Test**  
-Meyer Scetbon<sup>\*</sup>, Laurent Meunier<sup>\*</sup>, Yaniv Romano     
+Meyer Scetbon<sup>\*</sup>, Laurent Meunier<sup>\*</sup>, Yaniv Romano.     
 [paper](https://arxiv.org/pdf/2110.14868.pdf)  
 
 **Linear-Time Gromov Wasserstein Distances using Low Rank Couplings and Costs**  
