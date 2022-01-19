@@ -12,6 +12,12 @@ redirect_from:
 
 
 ## Published papers:
+**Triangular Flows for Generative Modeling: Statistical Consistency, Smoothness Classes, and Fast Rates**  
+Nicholas J. Irons, Meyer Scetbon, Soumik Pal, Zaid Harchaoui.  
+*Artificial Intelligence and Statistics (AISTATS 2022).*  
+[paper](https://arxiv.org/pdf/2112.15595.pdf)  
+
+
 **Deep K-SVD Denoising**  
 Meyer Scetbon, Michael Elad, Peyman Milanfar.   
 *IEEE Transactions on Image Processing.*   
@@ -79,10 +85,6 @@ Meyer Scetbon, Gaël Varoquaux.
 
 
 ## Preprints:
-**Triangular Flows for Generative Modeling: Statistical Consistency, Smoothness Classes, and Fast Rates**  
-Nicholas J. Irons, Meyer Scetbon, Soumik Pal, Zaid Harchaoui.  
-[paper](https://arxiv.org/pdf/2112.15595.pdf)  
-
 **An lp-based Kernel Conditional Independence Test**  
 Meyer Scetbon<sup>\*</sup>, Laurent Meunier<sup>\*</sup>, Yaniv Romano.     
 [paper](https://arxiv.org/pdf/2110.14868.pdf)  
