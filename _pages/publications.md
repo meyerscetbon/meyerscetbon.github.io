@@ -98,11 +98,12 @@ Meyer Scetbon, Gabriel Peyré, Marco Cuturi.
 
 
 ## Reviewing service:
+* 
 * Bernoulli Journal
 * JMLR
 * IEEE TPAMI
 * JCGS
-* NeurIPS (2020 - 2021)
-* AISTATS (2021)
-* ICML (2021)
+* NeurIPS (2020 - 2021) (**Outstanding Reviewer**)
+* AISTATS (2021 - 2022) (**Top Reviewer**)
+* ICML (2021 - 2022)
 
