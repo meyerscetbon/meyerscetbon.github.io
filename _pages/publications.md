@@ -98,7 +98,7 @@ Meyer Scetbon, Gabriel Peyré, Marco Cuturi.
 
 
 ## Reviewing service:
-* 
+* SIAM
 * Bernoulli Journal
 * JMLR
 * IEEE TPAMI
