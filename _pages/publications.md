@@ -97,7 +97,10 @@ Meyer Scetbon, Gaël Varoquaux.
 
 
 
-<!-- ## Preprints: -->
+## Preprints:
+**Low-rank Optimal Transport: Approximation, Statistics and Debiasing**  
+Meyer Scetbon, Marco Cuturi.  
+[paper](https://arxiv.org/pdf/2205.12365.pdf)
 
 
 
