@@ -16,6 +16,7 @@ redirect_from:
 Meyer Scetbon<sup>\*</sup>, Laurent Meunier<sup>\*</sup>, Yaniv Romano.  
 *International Conference on Machine Learning (ICML 2022).*   
 [paper](https://arxiv.org/pdf/2110.14868.pdf)  
+[code](https://github.com/meyerscetbon/lp-ci-test)
 
 
 **Linear-Time Gromov Wasserstein Distances using Low Rank Couplings and Costs**  
