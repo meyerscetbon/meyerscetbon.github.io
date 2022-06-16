@@ -15,7 +15,7 @@ redirect_from:
 **An lp-based Kernel Conditional Independence Test**  
 Meyer Scetbon<sup>\*</sup>, Laurent Meunier<sup>\*</sup>, Yaniv Romano.  
 *International Conference on Machine Learning (ICML 2022).*   
-[paper](https://arxiv.org/pdf/2110.14868.pdf)  
+[paper](https://arxiv.org/pdf/2110.14868.pdf)
 [code](https://github.com/meyerscetbon/lp-ci-test)
 
 
