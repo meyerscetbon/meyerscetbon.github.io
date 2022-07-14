@@ -17,6 +17,8 @@ Meyer Scetbon<sup>\*</sup>, Laurent Meunier<sup>\*</sup>, Yaniv Romano.
 *International Conference on Machine Learning (ICML 2022).*   
 [paper](https://arxiv.org/pdf/2110.14868.pdf)
 [code](https://github.com/meyerscetbon/lp-ci-test)
+[poster](/files/poster_kci_icml_2022.pdf)
+[slides](/files/slides_presentation_kci_icml_2022.pdf)
 
 
 **Linear-Time Gromov Wasserstein Distances using Low Rank Couplings and Costs**  
@@ -24,6 +26,8 @@ Meyer Scetbon, Gabriel Peyré, Marco Cuturi.
 *International Conference on Machine Learning (ICML 2022).*  
 [paper](https://arxiv.org/pdf/2106.01128.pdf)
 [code](https://github.com/meyerscetbon/LinearGromov)
+[poster](/files/poster_gw_icml_2022.pdf)
+[slides](/files/slides_presentation_gw_icml_2022.pdf)
 
 
 **Triangular Flows for Generative Modeling: Statistical Consistency, Smoothness Classes, and Fast Rates**  
