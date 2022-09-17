@@ -12,6 +12,12 @@ redirect_from:
 
 
 ## Published papers:
+**Low-rank Optimal Transport: Approximation, Statistics and Debiasing**  
+Meyer Scetbon, Marco Cuturi.  
+*Neural Information Processing Systems (NeurIPS 2022).*  
+[paper](https://arxiv.org/pdf/2205.12365.pdf)
+
+
 **An Asymptotic Test for Conditional Independence using Analytic Kernel Embeddings**  
 Meyer Scetbon<sup>\*</sup>, Laurent Meunier<sup>\*</sup>, Yaniv Romano.  
 *International Conference on Machine Learning (ICML 2022).*   
@@ -99,13 +105,6 @@ Meyer Scetbon, Gaël Varoquaux.
 [code](https://github.com/meyerscetbon/l1_two_sample_test)
 [poster](/files/poster_nips_l1_test.pdf)
 [slides](/files/Spotlight_NeurIPS_2019.pdf)
-
-
-
-## Preprints:
-**Low-rank Optimal Transport: Approximation, Statistics and Debiasing**  
-Meyer Scetbon, Marco Cuturi.  
-[paper](https://arxiv.org/pdf/2205.12365.pdf)
 
 
 
