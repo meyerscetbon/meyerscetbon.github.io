@@ -115,7 +115,7 @@ Meyer Scetbon, Gaël Varoquaux.
 * JMLR
 * IEEE TPAMI
 * JCGS
-* NeurIPS (2020 - 2021 - 2022) (**Outstanding Reviewer**), (**Top Reviewer**)
+* NeurIPS (2020 - 2021 - 2022) (**Outstanding Reviewer**, **Top Reviewer**)
 * AISTATS (2021 - 2022 - 2023) (**Top Reviewer**)
 * ICML (2021 - 2022)
 
