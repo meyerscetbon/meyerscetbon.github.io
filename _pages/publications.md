@@ -12,6 +12,12 @@ redirect_from:
 
 
 ## Published papers:
+**Robust Linear Regression: Gradient-descent, Early-stopping, and Beyond**  
+Meyer Scetbon, Elvis Dohmatob.  
+*Artificial Intelligence and Statistics (AISTATS 2023).*  
+[paper](https://arxiv.org/pdf/2301.13486.pdf)
+
+
 **Low-rank Optimal Transport: Approximation, Statistics and Debiasing**  
 Meyer Scetbon, Marco Cuturi.  
 *Neural Information Processing Systems (NeurIPS 2022).*  
