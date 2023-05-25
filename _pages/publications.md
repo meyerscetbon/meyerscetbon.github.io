@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+## PhD thesis:
+**Advances in Optimal Transport: Low-Rank Structures and Applications in Machine Learning**
+Meyer Scetbon.
+[manuscript](https://theses.hal.science/tel-04100457/document)
 
 
 ## Published papers:
@@ -112,7 +116,10 @@ Meyer Scetbon, Gaël Varoquaux.
 [poster](/files/poster_nips_l1_test.pdf)
 [slides](/files/Spotlight_NeurIPS_2019.pdf)
 
-
+## Preprint papers:
+**Polynomial-Time Solvers for the Discrete $\infty$-Optimal Transport Problems**
+Meyer Scetbon.
+[paper](https://arxiv.org/abs/2304.13467)
 
 
 ## Reviewing service:
