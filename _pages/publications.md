@@ -117,8 +117,8 @@ Meyer Scetbon, Gaël Varoquaux.
 [slides](/files/Spotlight_NeurIPS_2019.pdf)
 
 ## Preprint papers:
-**Polynomial-Time Solvers for the Discrete $\infty$-Optimal Transport Problems**
-Meyer Scetbon.
+**Polynomial-Time Solvers for the Discrete $\infty$-Optimal Transport Problems**   
+Meyer Scetbon.  
 [paper](https://arxiv.org/abs/2304.13467)
 
 
