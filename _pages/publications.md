@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 ## PhD thesis:
-**Advances in Optimal Transport: Low-Rank Structures and Applications in Machine Learning**
-Meyer Scetbon.
+**Advances in Optimal Transport: Low-Rank Structures and Applications in Machine Learning**  
+Meyer Scetbon.  
 [manuscript](https://theses.hal.science/tel-04100457/document)
 
 
