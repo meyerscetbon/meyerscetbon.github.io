@@ -13,5 +13,5 @@ I am Reseacher at [Microsoft Research Cambridge](https://www.microsoft.com/en-us
 
 Research Interests
 =====
-My PhD research focused on the application of optimal transport in machine learning, the design of statistical tests for causal discovery, the learning theory of neural networks and new deep learning based approaches for sparse coding.
+My PhD research focused on the application of optimal transport in machine learning, the design of statistical tests for causal discovery, the learning theory of neural networks and deep learning based approaches for sparse coding.
 
