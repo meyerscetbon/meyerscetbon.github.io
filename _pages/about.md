@@ -9,10 +9,9 @@ redirect_from:
 ---
 About me
 =====
-I am Meyer Scetbon, PhD student in the [Department of Statistics](http://crest.science/people/statistics) at [CREST](http://crest.science) - [ENSAE](https://www.ensae.fr), [Institut Polytechnique de Paris](https://www.ip-paris.fr) since September 2019. My advisor is [Marco Cuturi](https://marcocuturi.net).
+I am Reseacher at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/),where I work in the Causica team led by [Cheng Zhang](https://cheng-zhang.org). Before joining Microsoft Research, I was a Research Scientist Intern at [Meta AI Paris](https://ai.facebook.com/research/). I defended my PhD in April 2023 at [CREST](http://crest.science) - [ENSAE](https://www.ensae.fr), [Institut Polytechnique de Paris](https://www.ip-paris.fr) where I worked under the supervision of [Marco Cuturi](https://marcocuturi.net).
 
 Research Interests
 =====
-I am interested in optimal transport, causality, learning theory, kernel methods and sparse coding.
-
+My PhD research focused on the application of optimal transport in machine learning, the design of statistical tests for causal discovery, the learning theory of neural networks and new deep learning based approaches for sparse coding.
 
