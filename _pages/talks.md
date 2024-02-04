@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Talks"
-author_profile: true
+author_profile: false
 redirect_from:
   - /talks.html
 ---
