@@ -16,6 +16,13 @@ Meyer Scetbon.
 
 
 ## Published papers:
+**Unbalanced Low-rank Optimal Transport Solvers**   
+Meyer Scetbon<sup>\*</sup>, Michal Klein, Giovanni Palla, Marco Cuturi.   
+*Neural Information Processing Systems (NeurIPS 2023).*  
+[paper](https://arxiv.org/pdf/2305.19727.pdf)
+[code](https://ott-jax.readthedocs.io/en/latest/index.html)
+
+
 **Robust Linear Regression: Gradient-descent, Early-stopping, and Beyond**  
 Meyer Scetbon, Elvis Dohmatob.  
 *Artificial Intelligence and Statistics (AISTATS 2023).*  
