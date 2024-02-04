@@ -13,5 +13,7 @@ I am Reseacher at [Microsoft Research Cambridge](https://www.microsoft.com/en-us
 
 Research Interests
 =====
-My PhD research focused on the application of optimal transport in machine learning, the design of statistical tests for causal discovery, the learning theory of neural networks and deep learning based approaches for sparse coding.
+I have a keen interest in foundation models and genuine world models, specifically focusing on how foundation models can articulate their comprehension of the real world by incorporating causality. 
+
+Throughout my doctoral studies, my primary focus revolved around applying optimal transport to tackle large-scale challenges in Machine Learning. I also delved into its close connections with diverse applications within the machine learning domain, including areas like adversarial robustness, fair division, and the modeling of recent architectures like triangular flows and transformers.
 
