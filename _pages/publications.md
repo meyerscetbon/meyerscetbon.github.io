@@ -17,19 +17,19 @@ Meyer Scetbon.
 
 
 ## Published papers:
-**A Fixed-Point Approach for Causal Generative Modeling**
+**A Fixed-Point Approach for Causal Generative Modeling**  
 Meyer Scetbon, Joel Jennings, Agrin Himlkin, Cheng Zhang, Chao Ma.  
 *International Conference on Machine Learning (ICML 2024).*  
 [paper](https://arxiv.org/pdf/2404.06969)
 
 
-**Precise Accuracy / Robustness Tradeoffs in Regression: Case of General Norms**
+**Precise Accuracy / Robustness Tradeoffs in Regression: Case of General Norms**  
 Elvis Dohmatob, Meyer Scetbon.  
 *International Conference on Machine Learning (ICML 2024).*  
 [paper](https://arxiv.org/pdf/2308.00556)
 
 
-**Deep End-to-end Causal Inference**
+**Deep End-to-end Causal Inference**  
 Tomas Geffner et al.  
 *Transactions on Machine Learning Research (TMLR 2024).*  
 [paper](https://openreview.net/pdf?id=e6sqttxEGX)
@@ -144,8 +144,8 @@ Meyer Scetbon, Gaël Varoquaux.
 [slides](/files/Spotlight_NeurIPS_2019.pdf)
 
 ## Preprint papers:
-**The Essential Role of Causality in Foundation World Models for Embodied AI**
-Causica Team et al.
+**The Essential Role of Causality in Foundation World Models for Embodied AI**  
+Causica Team et al.  
 [paper](https://arxiv.org/pdf/2402.06665)
 
 **Polynomial-Time Solvers for the Discrete $\infty$-Optimal Transport Problems**   
