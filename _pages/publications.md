@@ -12,10 +12,30 @@ redirect_from:
 ## PhD thesis:
 **Advances in Optimal Transport: Low-Rank Structures and Applications in Machine Learning**  
 Meyer Scetbon.  
+*Best Thesis Award in Mathematics, Institut Polytechnique de Paris.*  
 [manuscript](https://theses.hal.science/tel-04100457/document)
 
 
 ## Published papers:
+**A Fixed-Point Approach for Causal Generative Modeling**
+Meyer Scetbon, Joel Jennings, Agrin Himlkin, Cheng Zhang, Chao Ma.  
+*International Conference on Machine Learning (ICML 2024).*  
+[paper](https://arxiv.org/pdf/2404.06969)
+
+
+**Precise Accuracy / Robustness Tradeoffs in Regression: Case of General Norms**
+Elvis Dohmatob, Meyer Scetbon.  
+*International Conference on Machine Learning (ICML 2024).*  
+[paper](https://arxiv.org/pdf/2308.00556)
+
+
+**Deep End-to-end Causal Inference**
+Tomas Geffner et al.  
+*Transactions on Machine Learning Research (TMLR 2024).*  
+[paper](https://openreview.net/pdf?id=e6sqttxEGX)
+[code](https://github.com/microsoft/causica)
+
+
 **Unbalanced Low-rank Optimal Transport Solvers**   
 Meyer Scetbon<sup>\*</sup>, Michal Klein<sup>\*</sup>, Giovanni Palla, Marco Cuturi.   
 *Neural Information Processing Systems (NeurIPS 2023).*  
@@ -124,6 +144,10 @@ Meyer Scetbon, Gaël Varoquaux.
 [slides](/files/Spotlight_NeurIPS_2019.pdf)
 
 ## Preprint papers:
+**The Essential Role of Causality in Foundation World Models for Embodied AI**
+Causica Team et al.
+[paper](https://arxiv.org/pdf/2402.06665)
+
 **Polynomial-Time Solvers for the Discrete $\infty$-Optimal Transport Problems**   
 Meyer Scetbon.  
 [paper](https://arxiv.org/abs/2304.13467)
@@ -135,7 +159,7 @@ Meyer Scetbon.
 * JMLR
 * IEEE TPAMI
 * JCGS
-* NeurIPS (2020 - 2021 - 2022) (**Outstanding Reviewer**, **Top Reviewer**)
-* AISTATS (2021 - 2022 - 2023) (**Top Reviewer**)
-* ICML (2021 - 2022)
+* NeurIPS (2020 - 2023) (**Outstanding Reviewer**, **Top Reviewer**)
+* AISTATS (2021 - 2024) (**Top Reviewer**)
+* ICML (2021 - 2024)
 
