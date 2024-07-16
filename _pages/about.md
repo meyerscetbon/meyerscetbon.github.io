@@ -13,7 +13,7 @@ I am currently a Reseacher at [Microsoft Research Cambridge](https://www.microso
 
 Research Interests
 =====
-I have a keen interest in foundation models, specifically focusing on how foundation models can articulate their understanding of the observable world by incorporating causality. 
+I have a keen interest in foundation models and world models, specifically focusing on how foundation models can articulate their comprehension of the world and optimize for decision-making.
 
 Throughout my doctoral studies, my primary focus revolved around applying optimal transport to tackle large-scale challenges in Machine Learning. I also delved into its close connections with diverse applications within the machine learning domain, including areas like adversarial robustness, fair division, and the modeling of recent architectures like triangular flows and transformers.
 
