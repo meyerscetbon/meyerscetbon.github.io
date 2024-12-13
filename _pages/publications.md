@@ -20,8 +20,8 @@ Meyer Scetbon.
 **A Fixed-Point Approach for Causal Generative Modeling**  
 Meyer Scetbon, Joel Jennings, Agrin Himlkin, Cheng Zhang, Chao Ma.  
 *International Conference on Machine Learning (ICML 2024).*  
-[paper](https://arxiv.org/pdf/2404.06969)  
-[code](https://github.com/microsoft/causica/tree/main/research_experiments/fip)  
+[paper](https://arxiv.org/pdf/2404.06969)
+[code](https://github.com/microsoft/causica/tree/main/research_experiments/fip)
 [poster](/files/icml_2024_fip_poster.pdf)
 
 
