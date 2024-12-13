@@ -146,8 +146,8 @@ Meyer Scetbon, Gaël Varoquaux.
 [slides](/files/Spotlight_NeurIPS_2019.pdf)
 
 ## Preprint papers:
-**Low-Rank Correction for Quantized LLMs**
-Meyer Scetbon, James Hensman.
+**Low-Rank Correction for Quantized LLMs**  
+Meyer Scetbon, James Hensman.  
 [paper](https://arxiv.org/pdf/2412.07902v1)
 
 **The Essential Role of Causality in Foundation World Models for Embodied AI**  
