@@ -20,7 +20,9 @@ Meyer Scetbon.
 **A Fixed-Point Approach for Causal Generative Modeling**  
 Meyer Scetbon, Joel Jennings, Agrin Himlkin, Cheng Zhang, Chao Ma.  
 *International Conference on Machine Learning (ICML 2024).*  
-[paper](https://arxiv.org/pdf/2404.06969)
+[paper](https://arxiv.org/pdf/2404.06969)  
+[code](https://github.com/microsoft/causica/tree/main/research_experiments/fip)  
+[poster](/files/icml_2024_fip_poster.pdf)
 
 
 **Precise Accuracy / Robustness Tradeoffs in Regression: Case of General Norms**  
@@ -144,6 +146,10 @@ Meyer Scetbon, Gaël Varoquaux.
 [slides](/files/Spotlight_NeurIPS_2019.pdf)
 
 ## Preprint papers:
+**Low-Rank Correction for Quantized LLMs**
+Meyer Scetbon, James Hensman.
+[paper](https://arxiv.org/pdf/2412.07902v1)
+
 **The Essential Role of Causality in Foundation World Models for Embodied AI**  
 Causica Team et al.  
 [paper](https://arxiv.org/pdf/2402.06665)
@@ -162,4 +168,5 @@ Meyer Scetbon.
 * NeurIPS (2020 - 2023) (**Outstanding Reviewer**, **Top Reviewer**)
 * AISTATS (2021 - 2024) (**Top Reviewer**)
 * ICML (2021 - 2024)
+* ICLR (2025)
 
