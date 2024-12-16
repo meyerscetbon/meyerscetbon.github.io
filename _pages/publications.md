@@ -146,7 +146,7 @@ Meyer Scetbon, Gaël Varoquaux.
 [slides](/files/Spotlight_NeurIPS_2019.pdf)
 
 ## Preprint papers:
-**Zero-Shot Learning of Causal Models**
+**Zero-Shot Learning of Causal Models**   
 Divyat Mahajan\*</sup>, Jannes Gladrow, Agrin Hilmkil, Cheng Zhang, Meyer Scetbon\*</sup>.    
 [paper](https://arxiv.org/pdf/2410.06128)
 [code](https://github.com/microsoft/causica/tree/main/research_experiments/cond_fip)
