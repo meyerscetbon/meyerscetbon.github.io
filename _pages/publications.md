@@ -172,7 +172,7 @@ Meyer Scetbon.
 * IEEE TPAMI
 * JCGS
 * NeurIPS (2020 - 2023) (**Outstanding Reviewer**, **Top Reviewer**)
-* AISTATS (2021 - 2024) (**Top Reviewer**)
+* AISTATS (2021 - 2023) (**Top Reviewer**)
 * ICML (2021 - 2024)
 * ICLR (2025)
 
