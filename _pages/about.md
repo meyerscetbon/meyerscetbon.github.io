@@ -9,7 +9,7 @@ redirect_from:
 ---
 About me
 =====
-I am currently a Reseacher at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/). Before joining Microsoft Research, I was a Research Scientist Intern at [Meta AI Paris](https://ai.facebook.com/research/). I defended my PhD in April 2023 at [CREST](http://crest.science) - [ENSAE](https://www.ensae.fr), [Institut Polytechnique de Paris](https://www.ip-paris.fr) where I worked under the supervision of [Marco Cuturi](https://marcocuturi.net).
+I am a Quantitative Researcher at Citadel Securities. Previously, I was a Researcher at Microsoft Research and a Research Scientist Intern at Meta AI. I defended my PhD in April 2023 at CREST - ENSAE, [Institut Polytechnique de Paris](https://www.ip-paris.fr) where I worked under the supervision of [Marco Cuturi](https://marcocuturi.net).
 
 Research Interests
 =====
